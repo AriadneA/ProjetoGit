@@ -1,2 +1,1 @@
-Olá, conexão github/pc
-alterando
+Repositório para relembrar de html e css :) 
